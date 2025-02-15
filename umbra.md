@@ -1,6 +1,6 @@
 # Umbra: A Disk-Based DBMS with In-Memory Performance
 
-Link to [presentation](https://www.youtube.com/watch?v=pS2_AJNIxzU)
+URLs: [Presentation](https://www.youtube.com/watch?v=pS2_AJNIxzU), [Paper](https://db.in.tum.de/~freitag/papers/p29-neumann-cidr20.pdf)
 
 ## 1. Introduction
 
