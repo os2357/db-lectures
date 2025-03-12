@@ -1,12 +1,12 @@
 # Enhancing SQL with Pipe Syntax
 
-- Presentation: `Pipe Syntax in SQL: SQL for the 21st Century`''
+- Presentation: `Pipe Syntax in SQL: SQL for the 21st Century`
 - URLs: [Youtube](https://www.youtube.com/watch?v=ZIkjAQ7AwSM) (Mar 11, 2025)
 
 ## 1. Motivation for Change
 
 - **Complexity of Traditional SQL**  
-  - Traditional SQL uses a rigid, clause-based structure (SELECT`, `FROM`, `WHERE`, etc.) that forces an "inside-out" data flow.  
+  - Traditional SQL uses a rigid, clause-based structure (`SELECT`, `FROM`, `WHERE`, etc.) that forces an "inside-out" data flow.  
   - The syntax often requires repetitive patterns and nested subqueries, leading to cognitive overload for both beginners and advanced users.
 
 - **Preserving SQL's Strengths**  
