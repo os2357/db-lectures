@@ -1,6 +1,6 @@
 # Towards Sanity in Query Languages
 
-URLs: [Presentation](https://www.youtube.com/watch?v=TBAf5l1RmcA) (2025)
+URLs: [Presentation](https://www.youtube.com/watch?v=TBAf5l1RmcA) (Feb 18, 2025)
 
 ## Key Points
 
